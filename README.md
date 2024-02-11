@@ -11,7 +11,7 @@ The microservice outputs the result as a string. The calling program should capt
 
 ## Sequence Diagram
 Please refer to the attached UML sequence diagram for a detailed understanding of how the main application requests and receives data from the microservice.
-![UML Diagram](361_UML_Sequence_Diagram.png)
+![UML Diagram](361_UML_Sequence_Diagram_whitebg.png)
 
 ### Example Call (in Python):
 ```python
